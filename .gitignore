@@ -1,0 +1,11 @@
+node_modules
+
+react.sublime-project
+react.sublime-workspace
+
+*.sublime-project
+*.sublime-workspace
+
+web.config
+
+*.vscode
